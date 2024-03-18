@@ -1,0 +1,14 @@
+.Notice{
+   text-align: center;
+   font-size: 100px;
+   font-weight: 1000;
+   
+    
+}
+
+.image{
+    background-image: url("../img/logo.jpg");
+    background-color: aliceblue;
+    background-size: cover;
+    background-repeat: repeat;
+}
